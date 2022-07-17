@@ -1,0 +1,32 @@
+.brand-logo{
+    width: 40px;
+}
+
+
+.upper_part{
+    background-color: #E5E5E5;
+}
+
+.player img{
+    width: 56px;
+}
+
+main{
+    max-width: 870px;
+ background-color: white; 
+}
+
+.blog img{
+    width: 177px;
+}
+
+.lower_part_v{
+    max-width: 870px;
+    background-color: white;
+
+}
+
+.lower_lvl{
+    background-color: #E5E5E5;
+
+}
